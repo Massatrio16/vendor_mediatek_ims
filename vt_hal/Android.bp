@@ -27,7 +27,6 @@ cc_library_shared {
     shared_libs: [
         "libhidlbase",
         "libfmq",
-        "vendor.mediatek.hardware.videotelephony@1.0.so",
         "libc",
         "libutils",
         "libcutils",
